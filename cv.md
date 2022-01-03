@@ -88,6 +88,6 @@ job duties:
     - interviewing candidates
 
 ## English
-Advanced
+Advanced\
 ![english_level](/assets/images/english_level.png)
 
