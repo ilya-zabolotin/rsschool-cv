@@ -4,6 +4,7 @@
  - **E-mail:** *mcclenn@rambler.ru*
  - **Phone:** *+79111500789*
  - **LinkedIn:** *<https://www.linkedin.com/in/ilya-zabolotin-68a51b214/>*
+ - **Discord:** *mcclenn23*
 
 ## About me
 I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
