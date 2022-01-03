@@ -71,7 +71,7 @@ I graduated from Omsk State University in 2006\
 I have a bachelor's degree at Applied Mathematics and Physics 
 
 ## Experience
-- **2006-2012**_** engineer at OmskGrazdanProect, Omsk
+- **2006-2012** engineer at OmskGrazdanProect, Omsk
 job duties:
     - town planing
     - testing of town planning application
