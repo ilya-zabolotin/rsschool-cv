@@ -1,16 +1,15 @@
 ## Ilya Zabolotin
 ![avatar](/assets/images/ilya_zabolotin_avatar.png)
-===
+
 ## My contact info
  - **E-mail:** *mcclenn@rambler.ru*
  - **Phone:** *+79111500789*
  - **LinkedIn:** *<https://www.linkedin.com/in/ilya-zabolotin-68a51b214/>*
  - **Discord:** *mcclenn23*
- \
-===
+
 ## About me
 I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
-===
+
 ## Skills
  - Experience in languages
      - Java
@@ -32,7 +31,7 @@ I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
  - Operation Systems
      - Windows
      - Linux
-===
+
 ## Code Example
 ```
 public class Solution {
@@ -66,11 +65,11 @@ public class Solution {
     }
 }
 ```
-===
+
 ## Education
 I graduated from Omsk State University in 2006\
 I have a bachelor's degree at Applied Mathematics and Physics 
-===
+
 ## Experience
 - **2006-2012**_** engineer at OmskGrazdanProect, Omsk
 job duties:
@@ -96,7 +95,7 @@ job duties:
     - tests creation
     - automation activities
     - interviewing candidates
-===
+
 ## English
 Advanced\
 ![english_level](/assets/images/english_level.png)
