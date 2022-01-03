@@ -24,7 +24,7 @@ I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
      - Linux
 
 ## Code Example
-'
+```
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -55,7 +55,7 @@ public class Solution {
 
     }
 }
-'
+```
 ## Education
 I graduated from Omsk State University in 2006
 I have a bachelor's degree at Applied Mathematics and Physics 
