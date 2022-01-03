@@ -97,6 +97,7 @@ job duties:
     - interviewing candidates
 
 ## English
-Advanced\
+Upper-Intermediate\
+Advanced according to <https://www.efset.org/ru/quick-check/>\
 ![english_level](/assets/images/english_level.png)
 
