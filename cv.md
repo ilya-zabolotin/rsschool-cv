@@ -20,7 +20,13 @@ I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
  - Tools
      - Git
      - Jira
+     - Confluence
      - ALM Octane
+     - Jenkins
+     - IntelliJ IDEA
+     - Sqldeveloper
+     - WinSCP
+     - Putty
  - Operation Systems
      - Windows
      - Linux
