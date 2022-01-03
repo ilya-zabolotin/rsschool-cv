@@ -4,9 +4,186 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>cv</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="icon" href="assets/img/rs_school_js.ico">
 </head>
+
+<img src="./assets/img/ilya_zabolotin_avatar.png" alt="my photo" width="300" height="300">
 <body>
-    
+    <header class = "header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code Example</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#experience" class="nav-link">Experience</a></li>
+                  <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+              </nav>
+        </div>
+    </header>
+    <main class="main-container">
+        <div class="container">
+            <section class="section" id="profile">
+                <h1 class="section-title">Ilya Zabolotin</h1>
+            </section>
+
+            <section class="section" id="contacts">
+                <h2 class="section-title">Contacts</h2>
+                <ul>
+                    <li>E-mail: mcclenn@rambler.ru</li>
+                    <li>Phone: +79111500789</li>
+                    <li>LinkedIn: <a href="https://www.linkedin.com/in/ilya-zabolotin-68a51b214/">ilya-zabolotin</a></li>
+                    <li>Discord: mcclenn23</li>
+                </ul>
+
+            </section>
+
+            <section class="section" id="summary">
+                <h2 class="section-title">Summary</h2>
+                <p>I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft</p>
+            </section>
+
+            <section class="section" id="skills">
+                <h2 class="section-title">Skills</h2>
+                <ol>
+                    <li>Experience in languages
+                      <ul>
+                        <li>Java</li>
+                        <li>Go</li>
+                        <li>Cobol</li>
+                        <li>Python</li>
+                      </ul>
+                    </li>
+                    <li>Frameworks
+                      <ul>
+                        <li>Angular</li>
+                      </ul>  
+                    </li>
+                    <li>Tools
+                        <ul>
+                          <li>Git</li>
+                          <li>Jira</li>
+                          <li>Confluence</li>
+                          <li>ALM Octane</li>
+                          <li>Jenkins</li>
+                          <li>IntelliJ IDEA</li>
+                          <li>Sqldeveloper</li>
+                          <li>WinSCP</li>
+                          <li>Putty</li>
+                        </ul>
+                      </li>
+                      <li>Opertion Systems
+                        <ul>
+                          <li>Windows</li>
+                          <li>Linux</li>
+                        </ul>
+                      </li>                    
+                  </ol>
+            </section>
+
+            <section class="section" id="code">
+                <h2 class="section-title">Code example</h2>
+                <p>
+                    <pre>
+                        public class Solution {
+                            public static void main(String[] args) throws Exception {
+                                BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
+                        
+                                int[] arr = new int[5];
+                                for (int i = 0; i < arr.length; i++){
+                                    String s;
+                                    s = reader.readLine();
+                                    arr[i] = Integer.parseInt(s);
+                                }
+                                int temp = 0;
+                                for (int j = 0; j < arr.length; j++) {
+                        
+                        
+                                for (int i = 0; i < arr.length - 1; i++) {
+                        
+                                    if (arr[i] > arr[i+1]){
+                                        temp = arr[i+1];
+                                        arr[i+1] = arr[i];
+                                        arr[i] = temp;
+                                    }
+                                }
+                        
+                                for (int i = 0; i < 5; i++){
+                                    System.out.println(arr[i]);
+                                }
+                                }
+                        
+                            }
+                        }
+                    </pre>
+                </p>
+            </section>
+
+            <section class="section" id="education">
+                <h2 class="section-title">Education</h2>
+                <p>I graduated from Omsk State University in 2006</p>
+                <p>I have a bachelor's degree at Applied Mathematics and Physics</p> 
+            </section>
+
+            <section class="section" id="experience">
+                <h2 class="section-title">Expirience</h2>
+                    <h3>2006-2012 engineer at OmskGrazdanProect, Omsk</h3>
+                    <a>Job duties:</a>
+                    <ul>
+                        <li>town planing</li>
+                        <li>testing of town planning application</li>
+                    </ul>
+                    <h3>2012-2014 engineer at ART Geonica, Omsk</h3>
+                    <a>Job duties:</a>
+                    <ul>
+                        <li>town planing</li>
+                        <li>testing of town planning application</li>
+                    </ul>
+                    <h3>2014-2016 engineer at TransEcoProject, St. Peterburgh</h3>
+                    <a>Job duties:</a>
+                    <ul>
+                        <li>town planing</li>
+                    </ul>
+                    <h3>2016-2017 testing specialist at Luxoft on Deutche Bank project dbRat, St. Peterburgh</h3>
+                    <a>Job duties:</a>
+                    <ul>
+                        <li>software testing</li>
+                        <li>test plans creation</li>
+                    </ul>
+                    <h3>2017-present senior software QA engineer at Luxoft on Microfocus project Fortify Static Code Analyzer, St. Peterburgh</h3>
+                    <a>Job duties:</a>
+                    <ul>
+                        <li>software testing</li>
+                        <li>tests creation</li>
+                        <li>automation activities</li>
+                        <li>interviewing candidates</li>
+                    </ul>
+            </section>
+
+            <section class="section" id="languages">
+                <h2 class="section-title">Languages</h2>
+                <p>English: Upper-Intermediate</p>
+            </section>
+
+
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <table>
+                <tr>
+                  <td> <a href="https://github.com/ilya-zabolotin">github</a></td>
+                  <td>2022</td>
+                  <td><a href="https://rs.school/js/"><img src="assets/img/rs_school_js.ico" width="256" 
+                    height="95" border="0" alt="RS School"></a></td>
+                </tr>
+              </table>
+        </div>
+    </footer>
 </body>
 </html>
