@@ -1,5 +1,5 @@
 ## Ilya Zabolotin
-![avatar](/assets/images/ilya_zabolotin_avatar.jpg)
+![avatar](/assets/images/ilya_zabolotin_avatar.png)
 ## My contact info
  - **E-mail:** *mcclenn@rambler.ru*
  - **Phone:** *+79111500789*
@@ -89,4 +89,5 @@ job duties:
 
 ## English
 Advanced
+![english_level](/assets/images/english_level.png)
 
