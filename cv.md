@@ -1,11 +1,11 @@
 ## Ilya Zabolotin
 ## My contact info
- - *E-mail:* mcclenn@rambler.ru
- - *Phone:* +79111500789
- - *LinkedIn:* <https://www.linkedin.com/in/ilya-zabolotin-68a51b214/>
+ - **E-mail:** *mcclenn@rambler.ru*
+ - **Phone:** *+79111500789*
+ - **LinkedIn:** *<https://www.linkedin.com/in/ilya-zabolotin-68a51b214/>*
 
 ## About me
-I'm a 36 years old and works as a Senior Software Testing Engineer in Luxoft
+I'm a 36 years old and works as a Senior Software QA Engineer in Luxoft
 
 ## Skills
  - Experience in languages
@@ -25,10 +25,6 @@ I'm a 36 years old and works as a Senior Software Testing Engineer in Luxoft
 
 ## Code Example
 '''
-/* 
-Числа по возрастанию
-*/
-
 public class Solution {
     public static void main(String[] args) throws Exception {
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
@@ -62,29 +58,29 @@ public class Solution {
 
 '''
 ## Education
-I graduated from in 2006 from Omsk State University
+I graduated from Omsk State University in 2006
 I have a bachelor's degree at Applied Mathematics and Physics 
 
 ## Experience
-- *2006-2012* engineer at OmskGrazdanProect, Omsk
+- **2006-2012**_** engineer at OmskGrazdanProect, Omsk
 job duties:
     - town planing
     - testing of town planning application
 
-- *2012-2014* engineer at ART Geonica, Omsk
+- **2012-2014** engineer at ART Geonica, Omsk
 job duties:
     - town planing
     - testing of town planning application
 
-- *2014-2016* engineer at TransEcoProject, St. Peterburgh
+- **2014-2016** engineer at TransEcoProject, St. Peterburgh
 job duties:
     - town planing
 
-- *2016-2017* testing specialist at Luxoft on Deutche Bank project dbRat
+- **2016-2017** testing specialist at Luxoft on Deutche Bank project dbRat
 job duties:
     - software testing
     - test plan creation
-- *2017-present** testing specialist at Luxoft on Microfocus project Fortify Static Code Analyzer
+- **2017-present** senior software QA engineer at Luxoft on Microfocus project Fortify Static Code Analyzer
 job duties:
     - software testing
     - tests creation
