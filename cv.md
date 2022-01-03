@@ -1,4 +1,5 @@
 ## Ilya Zabolotin
+![avatar](/assets/images/ilya_zabolotin_avatar.jpg)
 ## My contact info
  - **E-mail:** *mcclenn@rambler.ru*
  - **Phone:** *+79111500789*
@@ -57,7 +58,7 @@ public class Solution {
 }
 ```
 ## Education
-I graduated from Omsk State University in 2006
+I graduated from Omsk State University in 2006\
 I have a bachelor's degree at Applied Mathematics and Physics 
 
 ## Experience
